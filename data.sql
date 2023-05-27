@@ -122,3 +122,10 @@ VALUES
   ('10', '3', '2020-5-24'),
   ('10', '1', '2021-1-11');
 
+INSERT INTO
+  specializations(vet_id, species_id)
+VALUES
+  (1, 1),
+  (3, 1),
+  (3, 2),
+  (4, 2);
